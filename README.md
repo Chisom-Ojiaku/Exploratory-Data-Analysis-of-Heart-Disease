@@ -6,10 +6,10 @@ The analysis is focused on two main areas : Exploratory Data Analysis (EDA) and 
 ## Folder Arrangement
 1. Heart.csv - Data
    
-2. Eda and Correlation code RMD - Code Book
+2. Images
 
-3. Images
-   
+3. Eda and Correlation code RMD - Code Book
+
 4. Report on the project.
 
 ## Summary Statistics: 
